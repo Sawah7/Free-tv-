@@ -1,13 +1,18 @@
 #EXTM3U
 #EXTINF:-1 group-title="News",Al Manar
 https://manar.live/iptv/index.m3u8
+
 #EXTINF:-1 group-title="News",Al Manar2
 https://manar.live/iptv/chunklist_w925732700_b500000.m3u8
+
 #EXTINF:-1 group-title="News",Al Mayadeen
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist.m3u8
+
 #EXTINF:-1 group-title="News",Alittihad
 https://live.alittihad.tv:444/ittihad/chunklist.m3u8
+
 #EXTINF:-1 group-title="News",Al Masira
 https://svs.itworkscdn.net/almasiralive/almasira.smil/almasira_chunks.m3u8
+
 #EXTINF:-1 group-title="News",Alalam
-https://live2.alalam
+https://live2.alalam.ir/live/Alalam/index.m3u8
